@@ -15,7 +15,7 @@ root.render(
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <ThemeProvider theme={theme}>
-          <BrowserRouter basename="/pets-project-front">
+          <BrowserRouter basename="/fs-83-react-node-Anyanka2">
             <App />
           </BrowserRouter>
         </ThemeProvider>
