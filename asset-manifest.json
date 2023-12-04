@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-83-react-node-Anyanka2/static/css/main.ed116860.css",
-    "main.js": "/fs-83-react-node-Anyanka2/static/js/main.44da0e8f.js",
+    "main.js": "/fs-83-react-node-Anyanka2/static/js/main.b61b0c57.js",
     "static/js/865.4c50d910.chunk.js": "/fs-83-react-node-Anyanka2/static/js/865.4c50d910.chunk.js",
     "static/js/252.1217e040.chunk.js": "/fs-83-react-node-Anyanka2/static/js/252.1217e040.chunk.js",
     "static/js/344.56b752db.chunk.js": "/fs-83-react-node-Anyanka2/static/js/344.56b752db.chunk.js",
@@ -67,7 +67,7 @@
     "static/media/menu.svg": "/fs-83-react-node-Anyanka2/static/media/menu.65156b8b0db5266d38ec2651ac840922.svg",
     "static/media/plus-big.svg": "/fs-83-react-node-Anyanka2/static/media/plus-big.7c154d408816808f1c0ca04619ed8aa7.svg",
     "main.ed116860.css.map": "/fs-83-react-node-Anyanka2/static/css/main.ed116860.css.map",
-    "main.44da0e8f.js.map": "/fs-83-react-node-Anyanka2/static/js/main.44da0e8f.js.map",
+    "main.b61b0c57.js.map": "/fs-83-react-node-Anyanka2/static/js/main.b61b0c57.js.map",
     "865.4c50d910.chunk.js.map": "/fs-83-react-node-Anyanka2/static/js/865.4c50d910.chunk.js.map",
     "252.1217e040.chunk.js.map": "/fs-83-react-node-Anyanka2/static/js/252.1217e040.chunk.js.map",
     "344.56b752db.chunk.js.map": "/fs-83-react-node-Anyanka2/static/js/344.56b752db.chunk.js.map",
@@ -84,6 +84,6 @@
   },
   "entrypoints": [
     "static/css/main.ed116860.css",
-    "static/js/main.44da0e8f.js"
+    "static/js/main.b61b0c57.js"
   ]
 }
